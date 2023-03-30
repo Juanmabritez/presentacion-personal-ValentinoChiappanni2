@@ -1,15 +1,12 @@
-# Presentacion Valentino Chiappanni
+# Presentación 
 
-## hola mundo
+## Hola mi nombre es **Juan Manuel Britez**
 
-![perro](https://humanidades.com/wp-content/uploads/2017/02/perro-3-e1561679226953.jpg)
+* Tengo 19 años
 
-- Limpiar la pileta
-* Limpiar la casa.
+* Mi deporte favorito es el Voley
 
+![Voley](https://pin.it/3D5Ur85)
 
-1. Ingresar GitHub
-2. Clonar el ejercicio de presentacion.
-3. Editar Readme.
-
-[Google](https://www.google.com.ar/)
+* Estoy estudiando Tecnicatura en Programación en la 
+[UNAHUR](https://unahur.edu.ar/)
